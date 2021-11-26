@@ -1,0 +1,11 @@
+Binary Trees:
+the data structures of type tree comes in many forms .however the binary tree is a bit special because when they are in the sorted form
+they facilitate quick search ,insertion and deletion .items can be accessed ,inserted or deleted in any order.each sub tree is itself a tree.tree related programmings ned not always resursive.non recursive tree programming is also possible.but mush harder to code.
+binary tree transversal:
+Inorder tree transversal:first left sub tree followed by root and finally right sub tree.
+pre order transversal:root is visited first followed by left sub tree and last right sub tree.
+post order transversal:first left sub treee followed by right sub tree and last root.
+it needs a sorted form.
+depth first transversala: we transvese a single path of tree  as far as we can.
+
+
